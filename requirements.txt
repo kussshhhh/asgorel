@@ -1,0 +1,25 @@
+# Core ML and data science
+numpy
+pandas
+scikit-learn
+
+# Vector databases
+chromadb
+qdrant-client
+
+# Google Gemini
+google-generativeai>=0.3.0
+vertexai
+
+# Embeddings tools
+sentence-transformers
+langchain
+
+# Jupyter for development
+jupyter
+jupyterlab
+
+# Utilities
+python-dotenv
+requests
+tqdm
